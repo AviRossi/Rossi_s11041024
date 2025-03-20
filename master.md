@@ -1,3 +1,4 @@
 Topic : Alzheimer's Disease Dementia is a general term used to describe a significant decline in cognitive ability that interferes with a person's activities of daily living. Alzheimer disease (AD) is the most prevalent type of dementia, accounting for at least two-thirds of cases in individuals aged 65 and older.
 References Kumar A, Sidhu J, Lui F, et al. Alzheimer Disease. [Updated 2024 Feb 12]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK499922/
 Scheltens, P., Blennow, K., Breteler, M. M., De Strooper, B., Frisoni, G. B., Salloway, S., & Van der Flier, W. M. (2016). Alzheimer's disease. The Lancet, 388(10043), 505-517.
+Lane, C. A., Hardy, J., & Schott, J. M. (2018). Alzheimer's disease. European journal of neurology, 25(1), 59-70.
